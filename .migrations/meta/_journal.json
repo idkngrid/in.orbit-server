@@ -15,6 +15,13 @@
       "when": 1726015292213,
       "tag": "0001_even_tyrannus",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1726019708957,
+      "tag": "0002_clumsy_shatterstar",
+      "breakpoints": true
     }
   ]
 }
